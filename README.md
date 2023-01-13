@@ -12,7 +12,7 @@ Could has been updated without changing the core format or function.
 
 ## Installation
 
-Page is live on GitHub pages.
+Page is live on GitHub pages: https://mdwag316.github.io/Module-1-Challenge/
 
 ## Usage
 
