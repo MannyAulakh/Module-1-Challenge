@@ -16,7 +16,7 @@ Page is live on GitHub pages: https://mdwag316.github.io/Module-1-Challenge/
 
 ## Image
 
-![alt text](https://github.com/Mdwag316/Module-1-Challenge/blob/main/Develop/assets/images/Screenshot%202023-01-12%20182549.png?raw=true)
+![Mod 1 Preview](https://github.com/Mdwag316/Module-1-Challenge/blob/main/Develop/assets/images/Screenshot%202023-01-12%20182549.png?raw=true)
 
 ## Usage
 
