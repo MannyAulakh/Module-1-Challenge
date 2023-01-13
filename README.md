@@ -16,7 +16,7 @@ Page is live on GitHub pages: https://mdwag316.github.io/Module-1-Challenge/
 
 ## Image
 
-![alt text](https://courses.bootcampspot.com/courses/3414/files/2458491/preview)
+![alt text](Develop/assets/images/Screenshot 2023-01-12 182549.png)
 
 ## Usage
 
